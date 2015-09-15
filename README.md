@@ -1,2 +1,2 @@
 # GenerateChinese
-Generate Chinese character images with freetype
+Description:Generate Chinese character images with freetype
